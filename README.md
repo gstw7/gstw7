@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Estudando e me aprimorando em Ciências de Dados.
 - 🎓 &nbsp; Engenheiro de Petróleo pelo Centro Universitário Tiradentes.
 - 💼 &nbsp; Procurando... rs.
-- 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteruas em Cloud's.
+- 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's.
 - ✍️ &nbsp; Tenho como hobbies assistir séries/filmes.
 
 <h3>🛠 Tech Stack</h3>
@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="http://gstw7.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-gstw7.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20de%20Melo%20Oliveira-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gstmelo95-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/gustavo-de-melo-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20de%20Melo%20Oliveira-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/gstmelo95/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gstmelo95-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:gustavo.melo95@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gustavo.melo95@hotmail.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
