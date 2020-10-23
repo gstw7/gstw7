@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🤔 &nbsp; Estudando e me aprimorando em Ciências de Dados.
+- 🤔 &nbsp; Cientista de Dados.
 - 🎓 &nbsp; Engenheiro de Petróleo pelo Centro Universitário Tiradentes.
-- 💼 &nbsp; Procurando... rs.
+- 💼 &nbsp; InfoPrice.
 - 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's.
 - ✍️ &nbsp; Tenho como hobbies assistir séries/filmes.
 
