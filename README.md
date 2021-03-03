@@ -30,7 +30,7 @@
 
 <h3> 🎧 Spotify Playing </h3> 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Minha Playlist Spotify" width="350" />](https://open.spotify.com/playlist/6tBXfwIthI2o04RpLwiKtT)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6tBXfwIthI2o04RpLwiKtT)
 
 ---
 
