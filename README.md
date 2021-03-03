@@ -11,7 +11,6 @@
 - ✍️ &nbsp; Tenho como hobbies assistir séries/filmes ler livros.
 
 
- ---
  
 <h3>🚀💻 Technologies & Tools</h3>
 
