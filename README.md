@@ -1,4 +1,5 @@
-<h2> Oi! Eu sou Gustavo.</h2> <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gstw7&repo=gstw7&countColorcountColor&countColor=%237B1E7B"/> 
+<h2> Oi! Eu sou Gustavo.</h2> 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gstw7&repo=gstw7&countColorcountColor&countColor=%237B1E7B"/> 
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
@@ -8,6 +9,7 @@
 - 🌱 &nbsp;  "Ao infinito... e além!" -Buzz Lightyear.
 - ✍️ &nbsp; Tenho como hobbies assistir séries/filmes ler livros.
 <img align="right" src="https://github.com/gstw7/gstw7/blob/master/ds.gif"/>
+
  ---
  
 <h3>🚀💻 Technologies & Tools</h3>
@@ -23,6 +25,7 @@
 ---
 
 [![Gstw7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=gstw7&show_icons=true)](https://github.com/gstw7)
+
 ---
 
 <h3> 🎧 Spotify Playing </h3> 
