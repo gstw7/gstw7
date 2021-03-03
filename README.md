@@ -1,6 +1,11 @@
+<p align="center">
+<br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="800px"><br><br>
+</p>
+<br/>
+<br/>
+
 <h2> Oi! Eu sou Gustavo.</h2> 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gstw7&repo=gstw7&countColorcountColor&countColor=%237B1E7B"/>
-<img align="right" src="https://github.com/gstw7/gstw7/blob/master/ds.gif"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
