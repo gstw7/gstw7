@@ -3,17 +3,18 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🤔 &nbsp; Cientista de Dados.
-- 🎓 &nbsp; Engenheiro de Petróleo pelo Centro Universitário Tiradentes.
+- 🎓 &nbsp; Engenheiro de Petróleo por formação e apaixonado por dados.
 - 💼 &nbsp; InfoPrice.
-- 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's.
-- ✍️ &nbsp; Tenho como hobbies assistir séries/filmes.
+- 🌱 &nbsp;  "Ao infinito... e além!" -Buzz Lightyear.
+- ✍️ &nbsp; Tenho como hobbies assistir séries/filmes ler livros.
+<img align="right" src="https://github.com/gstw7/gstw7/blob/master/ds.gif"/>
 
-<h3>🛠 Tech Stack</h3>
+<h3>🚀💻 Technologies & Tools</h3>
 
 - 💻 &nbsp; Python | SQL
 - 🤖 &nbsp; Machine Learning | Artificial Intelligence
 - ☁️ &nbsp; AWS | IBM
-- 🌐 &nbsp; Pandas | NumPy | Matplotlib | Seaborn | Scikit Learn
+- 🌐 &nbsp; Pandas | NumPy | Scipy | Matplotlib | Seaborn | Scikit Learn | Prophet
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; JupyterLab | Jupyter Notebook | Visual Studio Code
@@ -21,6 +22,14 @@
 <br/>
 
 [![Gstw7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=gstw7&show_icons=true)](https://github.com/gstw7)
+
+<h3> 🎧 Spotify Playing </h3> 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/gstw)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gstw7&repo=gstw7&countColorcountColor&countColor=%237B1E7B"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
