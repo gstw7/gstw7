@@ -1,5 +1,5 @@
 <p align="center">
-<br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="800px"><br><br>
+<br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="300px"><br><br>
 </p>
 <br/>
 <br/>
