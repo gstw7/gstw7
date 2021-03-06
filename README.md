@@ -31,6 +31,8 @@
 
 [![Gstw7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=gstw7&show_icons=true)](https://github.com/gstw7)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstw7&theme=light&hide_langs_below=1" />
+
 ---
 
 <h3> 🎧 Spotify Playing </h3> 
