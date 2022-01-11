@@ -11,7 +11,7 @@
 
 - 🤔 &nbsp; Cientista de Dados.
 - 🎓 &nbsp; Engenheiro de Petróleo por formação e apaixonado por dados.
-- 💼 &nbsp; InfoPrice.
+- 💼 &nbsp; TOTVS.
 - 🌱 &nbsp;  "Ao infinito... e além!" -Buzz Lightyear.
 - ✍️ &nbsp; Tenho como hobbies assistir séries/filmes ler livros.
 
