@@ -1,10 +1,10 @@
+<a href="https://wakatime.com/@90b7546b-5b81-4481-9b29-ee71efa4316d"><img src="https://wakatime.com/badge/user/90b7546b-5b81-4481-9b29-ee71efa4316d.svg" alt="Total time coded since Jul 13 2023" /></a>
 <p align="center">
 <br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="300px"><br>
 </p>
 </br>
 
 <h2> Oi! Eu sou Gustavo.</h2>
-<a href="https://wakatime.com/@90b7546b-5b81-4481-9b29-ee71efa4316d"><img src="https://wakatime.com/badge/user/90b7546b-5b81-4481-9b29-ee71efa4316d.svg" alt="Total time coded since Jul 13 2023" /></a>
 <p align="right">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster&countColor=%23263759" /></a>
 </p>
