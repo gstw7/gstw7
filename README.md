@@ -1,11 +1,13 @@
-<a href="https://wakatime.com/@90b7546b-5b81-4481-9b29-ee71efa4316d"><img src="https://wakatime.com/badge/user/90b7546b-5b81-4481-9b29-ee71efa4316d.svg" alt="Total time coded since Jul 13 2023" /></a>
 <p align="center">
 <br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="300px"><br>
 </p>
 </br>
 
-<h2> Oi! Eu sou Gustavo.</h2> 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gstw7&repo=gstw7&countColorcountColor&countColor=%237B1E7B"/>
+<h2> Oi! Eu sou Gustavo.</h2>
+<p align="right">
+<a href="https://wakatime.com/@90b7546b-5b81-4481-9b29-ee71efa4316d"><img src="https://wakatime.com/badge/user/90b7546b-5b81-4481-9b29-ee71efa4316d.svg" alt="Total time coded since Jul 13 2023" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster&countColor=%23263759" /></a>
+</p>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
@@ -32,12 +34,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstw7&theme=light&hide_langs_below=1"/>
 
 [![Gstw7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=gstw7&show_icons=true)](https://github.com/gstw7)
-
----
-
-<h3> 🎧 Spotify Playing </h3> 
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6tBXfwIthI2o04RpLwiKtT)
 
 ---
 
