@@ -8,27 +8,6 @@
 <p align="right">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster&countColor=%23263759" /></a>
 </p>
-
-<h3> 👨🏻‍💻 Sobre mim </h3>
-
-- 🤔 &nbsp; Cientista de Dados.
-- 🎓 &nbsp; Engenheiro de Petróleo por formação e apaixonado por dados.
-- 💼 &nbsp; TOTVS.
-- 🌱 &nbsp;  "Ao infinito... e além!" -Buzz Lightyear.
-- ✍️ &nbsp; Tenho como hobbies assistir séries/filmes ler livros.
-
-
- 
-<h3>🚀💻 Technologies & Tools</h3>
-
-- 💻 &nbsp; Python | SQL
-- 🤖 &nbsp; Machine Learning | Artificial Intelligence
-- ☁️ &nbsp; AWS | IBM
-- 🌐 &nbsp; Pandas | NumPy | Scipy | Matplotlib | Seaborn | Scikit Learn | Prophet
-- 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; JupyterLab | Jupyter Notebook | Visual Studio Code
-
 ---
 <p>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstw7&theme=light&hide_langs_below=1"/>
