@@ -8,6 +8,6 @@
 <p align="center">
 <a href="http://gstw7.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-gstw7.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/gustavo-de-melo-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20de%20Melo%20Oliveira-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/gstmelo95/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gstmelo95-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:gustavo.melo95@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gustavo.melo95@hotmail.com-blue?style=flat-square&logo=microsoft"></a>
+<a href="https://www.instagram.com/gstm.py/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gstm.py-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:gust4vo-mlo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gust4vo-mlo@hotmail.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
