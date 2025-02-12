@@ -3,7 +3,6 @@
 <br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="300px"><br>
 </p>
 </br>
----
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
