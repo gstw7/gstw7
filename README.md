@@ -3,17 +3,6 @@
 <br><img src="https://github.com/gstw7/gstw7/blob/master/ds.gif" width="300px"><br>
 </p>
 </br>
-
-<h2> Oi! Eu sou Gustavo.</h2>
-<p align="right">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgstw7%2Fgstw7%2Ftree%2Fmaster&countColor=%23263759" /></a>
-</p>
----
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstw7&theme=light&hide_langs_below=1"/>
-<img src="https://github-readme-stats.vercel.app/api?username=gstw7&show_icons=true"/>
-</p>
-
 ---
 <h3> 🤝🏻 Connect with Me </h3>
 
